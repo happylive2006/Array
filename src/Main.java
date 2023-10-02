@@ -31,6 +31,9 @@ public class Main {
         familyArrayList.add("Grandma");
         System.out.println(familyArrayList.get(4));
 
+        familyArrayList.add("William");
+        System.out.println(familyArrayList.get(5));
+
         //Set an element
         familyArray[0]= "loki";
         System.out.println(familyArray[0]);
